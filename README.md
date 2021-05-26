@@ -1,1 +1,1 @@
-You should prefer independent, so your code should be reproducible & rebuildable withing reasonable short time. `.idea` should not be included.
+You should prefer independence, thus the code should be reproducible & rebuildable within reasonable time and without the help of IDE. `.idea` and other build-time related staffs should not be included in a git repo.
