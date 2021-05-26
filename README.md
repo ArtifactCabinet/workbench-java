@@ -1,0 +1,1 @@
+You should prefer independent, so your code should be reproducible & rebuildable withing reasonable short time. `.idea` should not be included.
